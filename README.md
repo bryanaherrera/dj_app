@@ -1,24 +1,7 @@
-# frontend
+# Song Request App
 
-## Project setup
+## Description
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+Application for DJs and event guests. Where guests can submit a song request for their certian event in a mush simplier way. DJs can create events and view guest's requests.
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
